@@ -1,11 +1,18 @@
+body {
+    margin: 0px;
+}
+
 .container {
     background-color: royalblue;
+    padding: 20px;
 }
 
 .container .content {
     background-color: seagreen;
+    padding: 20px;
 }
 
 .container .sticky-footer {
     background-color: orange;
+    padding: 20px;
 }
