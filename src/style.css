@@ -1,3 +1,11 @@
-.sticky-footer {
+.container {
+    background-color: royalblue;
+}
+
+.container .content {
+    background-color: seagreen;
+}
+
+.container .sticky-footer {
     background-color: orange;
 }
