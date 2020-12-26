@@ -1,18 +1,22 @@
+html {
+    height: 100%;
+}
+
 body {
     margin: 0px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
-.container {
-    background-color: royalblue;
-    padding: 20px;
-}
-
-.container .content {
+.content {
     background-color: seagreen;
     padding: 20px;
+    flex: 1 0 auto;
 }
 
-.container .sticky-footer {
+.sticky-footer {
     background-color: orange;
     padding: 20px;
+    flex-shrink: 0;
 }

@@ -9,7 +9,7 @@ An element on the page that sticks to the bottom regardless of the amount of con
 Or to put it diagrammatically:
 <!-- language: lang-none -->
     --------------------------------------------
-    | container                                |
+    |                                          |
     |    ----------------------------------    |
     |    |    content                     |    |  
     |    ----------------------------------    |
@@ -25,7 +25,7 @@ Or to put it diagrammatically:
 
 <!-- language: lang-none -->
     --------------------------------------------
-    | container                                |
+    |                                          |
     |    ----------------------------------    |
     |    |    content                     |    |  
     |    |                                |    |
